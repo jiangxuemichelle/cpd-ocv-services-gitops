@@ -7,7 +7,6 @@ spec:
   license:
     accept: true
     license: Enterprise
-  version: 1.1.188
   persistence:
     storage_class: ocs-storagecluster-cephfs
     storage_vendor: ocs

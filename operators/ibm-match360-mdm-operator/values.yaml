@@ -7,4 +7,3 @@ subscriptions:
       name: ibm-mdm
       source: ibm-operator-catalog
       sourceNamespace: openshift-marketplace
-      startingCSV: ibm-mdm.v1.1.188
